@@ -10,4 +10,4 @@ Directions for tourist parks that aim so that visitors don't get lost, and make 
 ### License
 MIT
 
-##### This idea came from Vicky Bunga Aulia (People I care about)
+##### This idea came from Vicky Bunga Aulia (My Wife)
